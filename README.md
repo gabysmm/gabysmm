@@ -2,7 +2,7 @@
 
 ### 👋 Sobre Mim
 
-Olá! Sou a Gabrielly, estudante de **Análise e Desenvolvimento de Sistemas** no IFRN e estou em uma jornada de exploração na tecnologia, sempre com um cafezinho do lado, aprendendo um pouco de tudo. Embora eu ainda esteja descobrindo todos os caminhos que a tecnologia oferece, tenho um carinho especial por **UX/UI**. Meu objetivo atual é continuar evoluindo cada vez mais! 
+Olá! Sou a Gabrielly, estudante de **Análise e Desenvolvimento de Sistemas** no IFRN e estou em uma jornada de exploração na tecnologia, sempre com um chocolatinho ao lado, aprendendo um pouco de tudo. Embora eu ainda esteja descobrindo todos os caminhos que a tecnologia oferece, tenho um carinho especial por **UX/UI**. Meu objetivo atual é continuar evoluindo cada vez mais! 
 
 ### ✨ Linguagens e Ferramentas
 
